@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Dwishank Patil on 25/08/18.
-//  Copyright © 2018 Dwishank Patil. All rights reserved.
-//
+
 
 import UIKit
 
